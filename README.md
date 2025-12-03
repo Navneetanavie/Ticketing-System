@@ -1,4 +1,4 @@
-# Leap Ticketing System
+#  Ticketing System
 
 A modern, full-stack ticketing system built with Spring Boot and Next.js.
 
